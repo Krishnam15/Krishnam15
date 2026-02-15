@@ -65,11 +65,11 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 
 ---
 ## 📈 Coding Profiles
+I regularly practice core DSA fundamentals on various platforms as listed below.
+- [**LeetCode:**](https://leetcode.com/u/user5769WR/)
+- [**GeeksforGeeks:**](https://www.geeksforgeeks.org/profile/krishnamagarwal15?tab=overview)
 
-- **LeetCode:**(https://leetcode.com/u/user5769WR/)
-- **GeeksforGeeks:**(https://www.geeksforgeeks.org/profile/krishnamagarwal15?tab=overview)
-
-📫 **Reach me:**  
+## 📫 **Reach me:**  
 - GitHub: [@Krishnam15](https://github.com/Krishnam15)
 - LinkedIn: [Krishnam Agarwal](https://www.linkedin.com/in/krishnam-agarwal-484883251/)
 - Email: krishnam.agarwal15@gmail.com
