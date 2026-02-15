@@ -64,10 +64,14 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 - `learning-web-development` – frontend fundamentals
 
 ---
+## 📈 Coding Profiles
 
+- **LeetCode:**(https://leetcode.com/u/user5769WR/)
+- **GeeksforGeeks:**(https://www.geeksforgeeks.org/profile/krishnamagarwal15?tab=overview)
 
 📫 **Reach me:**  
 - GitHub: [@Krishnam15](https://github.com/Krishnam15)
 - LinkedIn: [Krishnam Agarwal](https://www.linkedin.com/in/krishnam-agarwal-484883251/)
+- Email: krishnam.agarwal15@gmail.com
 
 Thanks for stopping by!
