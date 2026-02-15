@@ -57,7 +57,7 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 ---
 
 ## 📚 Learning Repositories
-- `learning-100-days-of-ML-challenge` - ML repository following CampusX’s 100 Days of ML playlist.
+- `learning-100-days-of-ML-challenge` - Comprehensive learning of core ML techniques.
 - `learning-ml-projects` – classical ML problems and workflows
 - `learning-deep-learning` – neural network fundamentals
 - `learning-nlp` – NLP techniques (BoW, POS tagging, Word2Vec)
