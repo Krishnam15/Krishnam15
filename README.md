@@ -4,8 +4,7 @@
 💻 Aspiring Software Development Engineer (SDE)  
 📍 India  
 
-I’m focused on building **strong fundamentals in Data Structures, Algorithms, and Core Computer Science**, and applying them through well-documented projects. Actively preparing for **SDE-1 roles at top-tier product-based companies**.
-
+I’m focused on building **strong fundamentals in Data Structures, Algorithms, and Core Computer Science**, and applying them through well-documented projects.
 ---
 
 ## 🧠 About Me
