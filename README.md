@@ -52,33 +52,7 @@ I’m focused on building **strong fundamentals in Data Structures, Algorithms, 
 
 > Each project has a dedicated repository with a detailed README, setup steps, and explanations.
 
-### 🔹 Personal Finance Dashboard
-- Interactive dashboard to track **income, expenses, savings**
-- Visual insights using charts and summaries
-- Focus on clean UI and modular logic  
-**Tech:** HTML, CSS, JavaScript
 
-### 🔹 NLP & Sentiment Analysis
-- Scraped news articles and performed **sentiment analysis**
-- Data cleaning, preprocessing, and visualization
-- Practical exposure to an end-to-end NLP pipeline  
-**Tech:** Python, Pandas, NLP libraries
-
-### 🔹 Data Structures & Algorithms
-- Clean and optimized implementations
-- Interview-focused solutions with edge case handling
-- Emphasis on **time and space complexity**  
-**Tech:** Java
-
----
-
-## 🏆 Achievements
-
-- 🥉 **2nd Runner-Up – Spark-o-thon 2023**  
-  Problem-solving hackathon by **BCKIC (Office of the PSA to GoI)**  
-  Ranked **3rd out of 15 teams**
-
----
 
 ## 📈 Coding Profiles
 
@@ -91,21 +65,17 @@ I’m focused on building **strong fundamentals in Data Structures, Algorithms, 
 ## 🤝 What I’m Looking For
 
 - **SDE-1 / Internship opportunities**
-- Teams that value **clean code, strong fundamentals, and growth mindset**
+- Teams that value **clean code, strong fundamentals, and a growth mindset**
 - Challenging work in **scalable systems and product development**
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add link)  
-- Email: (add email)  
-- Portfolio: (optional)
+- -
+- -
+- -
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnam15&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Krishnam15)
 
