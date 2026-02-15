@@ -1,80 +1,74 @@
-# Hi, I’m Krishnam 👋
+# Hi, I'm Krishnam 👋
 
-🎓 Computer Science Student  
-💻 Aspiring Software Development Engineer (SDE)  
-📍 India  
-
-I’m focused on building **strong fundamentals in Data Structures, Algorithms, and Core Computer Science**, and applying them through well-documented projects.
----
-
-## 🧠 About Me
-
-- Consistently solving **DSA problems** (Striver A2Z, LeetCode, GFG)
-- Strong understanding of **Data Structures, Algorithms, OOPs, DBMS, OS**
-- Hands-on experience with **Java, JavaScript, Python**
-- Built multiple **end-to-end projects** with clean structure and documentation
-- Exploring **Machine Learning, NLP, and Deep Learning**
-- Hackathon experience with a problem-solving mindset
+🎓 Computer Science student | 💻 Aspiring Software Development Engineer  
+I enjoy building **real-world systems** that combine clean engineering with applied machine learning and NLP.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages**  
-- Java  
-- JavaScript  
-- Python  
-- C / C++
-
-**Core CS**  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- DBMS  
-- Operating Systems  
-- Computer Networks  
-
-**Web & Tools**  
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
-
-**ML / Data (Learning & Applied)**  
-- NumPy  
-- Pandas  
-- NLP basics  
-- PyTorch / TensorFlow (learning)
+### 🆘 Real-Time AI-Assisted Emergency Operator Dashboard
+AI-powered system that transcribes live emergency calls, extracts structured emergency details, and assists operators in real time.
+- Real-time audio streaming with Twilio Media Streams
+- Speech-to-text using Whisper + NLP-based information extraction
+- Human-in-the-loop dashboard with ~3s end-to-end latency  
+**Tech:** Node.js, React, WebSockets, OpenAI APIs, MongoDB
 
 ---
 
-## 📌 Featured Projects
-
-> Each project has a dedicated repository with a detailed README, setup steps, and explanations.
-
-
-
-## 📈 Coding Profiles
-
-- **LeetCode:** Regular DSA practice  
-- **GeeksforGeeks:** Core CS and problem solving  
-- **GitHub:** Structured repositories with proper documentation
+### 🤖 AI Code Review Assistant
+AI-assisted developer tool that provides automated first-pass code review feedback.
+- Structured feedback on code quality and optimization opportunities
+- Custom prompt pipelines using LLMs
+- Reduced initial manual review effort by ~30%  
+**Tech:** TypeScript, React, OpenAI API, LangChain
 
 ---
 
-## 🤝 What I’m Looking For
-
-- **SDE-1 / Internship opportunities**
-- Teams that value **clean code, strong fundamentals, and a growth mindset**
-- Challenging work in **scalable systems and product development**
-
----
-
-## 📫 Connect With Me
-
-- -
-- -
-- -
+### 📉 Customer Survival Analysis & Churn Prediction
+End-to-end analytics system combining survival analysis and machine learning to predict churn and estimate customer lifetime value.
+- Cox Proportional Hazards + Random Forest modeling
+- Achieved **0.85 ROC-AUC** on churn prediction
+- Flask-based app for visualization and explainability  
+**Tech:** Python, scikit-learn, lifelines, Flask
 
 ---
 
+### 📊 Economic Pulse – Text-Based Sentiment Analysis
+Automated NLP pipeline analyzing economic sentiment from news articles.
+- Scraped ~700 Indian economic news articles
+- Achieved **>90% sentiment classification accuracy**
+- Extracted sentiment trends and dominant themes  
+**Tech:** Python, Selenium, NLTK (VADER), Streamlit
 
+---
+
+## 🧠 Core Skills
+- **Languages:** Java, Python, JavaScript, TypeScript  
+- **Backend:** Node.js, Express, REST APIs, WebSockets  
+- **Frontend:** React, Vite, TailwindCSS  
+- **ML / NLP:** scikit-learn, NLTK, Gensim, Survival Analysis  
+- **Databases:** MongoDB  
+- **Tools:** Git, GitHub, Docker (basic)
+
+---
+
+## 📚 Learning Repositories
+- `learning-ml-projects` – classical ML problems and workflows
+- `learning-deep-learning` – neural network fundamentals
+- `learning-nlp` – NLP techniques (BoW, POS tagging, Word2Vec)
+- `learning-web-development` – frontend fundamentals
+
+---
+
+## 🎯 Interests
+- Software engineering & system design  
+- Applied machine learning and NLP  
+- Building reliable, production-minded systems  
+
+---
+
+📫 **Reach me:**  
+- GitHub: [@Krishnam15](https://github.com/Krishnam15)
+
+Thanks for stopping by!
