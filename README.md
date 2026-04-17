@@ -64,11 +64,12 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 - `learning-web-development` – frontend fundamentals
 ---
 ## 🎓 Certifications
-- **Introduction to Cloud Computing on AWS for Beginners**
-- **GCP Fundamentals for Beginners**
-- **Data Structures and Algorithms: Deep Dive Using Java**
-- **Data Engineering Master Course: Spark/Hadoop/Kafka/MongoDB**
-- **IBM certified Machine Learning with Python (V2)**
+- **Introduction to Cloud Computing on AWS for Beginners.**
+- **GCP Fundamentals for Beginners.**
+- **Data Structures and Algorithms: Deep Dive Using Java.**
+- **Data Engineering Master Course: Spark/Hadoop/Kafka/MongoDB.**
+- **IBM certified Machine Learning with Python (V2).**
+- **Data Warehouse - The Ultimate Guide.**
 
 ---
 ## 📈 Coding Profiles
