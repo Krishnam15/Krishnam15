@@ -50,9 +50,9 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 ## 🧠 Core Skills
 - **Languages:** C++, Python, Java, JavaScript, TypeScript, SQL. 
 - **Backend:** Node.js, Express, REST APIs, WebSockets. 
-- **Frontend:** React, Vite, TailwindCSS.  
-- **AI & DataScience:** Machine Learning, Deep Learning, NLP, Data Analysis, Web Scraping
-- **Tools & Frameworks:** Git, OpenAI API, LangChain, PyTorch, TensorFlow, scikit-learn, Vite.
+- **Frontend:** React, CSS, TailwindCSS.  
+- **AI & Data Science:** Machine Learning, Deep Learning, NLP, Data Analysis, Web Scraping
+- **Tools & Frameworks:** Git, AWS, PyTorch, TensorFlow, scikit-learn, Vite.
 
 ---
 
@@ -62,6 +62,13 @@ Automated NLP pipeline analyzing economic sentiment from news articles.
 - `learning-deep-learning` – neural network fundamentals
 - `learning-nlp` – NLP techniques (BoW, POS tagging, Word2Vec)
 - `learning-web-development` – frontend fundamentals
+---
+## 🎓 Certifications
+- **Introduction to Cloud Computing on AWS for Beginners**
+- **GCP Fundamentals for Beginners**
+- **Data Structures and Algorithms: Deep Dive Using Java**
+- **Data Engineering Master Course: Spark/Hadoop/Kafka/MongoDB**
+- **IBM certified Machine Learning with Python (V2)**
 
 ---
 ## 📈 Coding Profiles
